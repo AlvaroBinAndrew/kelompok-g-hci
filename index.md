@@ -1,7 +1,7 @@
 # Tugas Kelompok G HCI
 
 ## Kelompok I Beranggotakan:
-* Nama Mahasiswa 13136190xx
+* Andrew Alvaro H 13136190xx
 * Nama Mahasiswa 13136190xx
 * Nama Mahasiswa 13136190xx
 
@@ -33,8 +33,8 @@ Results can be found at: [Tulis nama hasil penelitian](link website)
 - [x] Interview result: [Interview](link repo interview)
 
 ## Contributors
-* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
-* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
-* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [Pramudio]()
+* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaroh H](https://github.com/xxxx)
+* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxxx)
+* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxxx)
 
 #### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
