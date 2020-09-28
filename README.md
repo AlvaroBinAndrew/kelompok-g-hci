@@ -34,7 +34,7 @@ Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.
 
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/KelompokG)
-* **Asep Virgo** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
-* **Yafeth AP** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
+* **Asep Virgo** - Ilmu Komputer UNJ 2019
+* **Yafeth AP** - Ilmu Komputer UNJ 2019 
 
 #### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
