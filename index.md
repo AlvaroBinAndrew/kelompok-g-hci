@@ -30,11 +30,11 @@ Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.
   - Get copy to his/her design items
   - Ask whether he/she had a habit to consider control design (the interaction parts)
   
-- [x] Interview result: [Interview](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%202)
+- [x] Interview result: [Interview](https://github.com/AlvaroBinAndrew/kelompok-g-hci/tree/master/Task%202)
 - [x] Interview Video: [Video wawancara](https://youtu.be/8ej79xYaC_Q)
 
 ## Contributors
-* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaroh H](https://github.com/xxxx)
+* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaroh H](https://github.com/AlvaroBinAndrew)
 * **Nama Mahasiswa** - Ilmu Komputer UNJ 2019
 * **Nama Mahasiswa** - Ilmu Komputer UNJ 2019
 
