@@ -6,7 +6,7 @@
 * Nama Mahasiswa 13136190xx
 
 ### Pengantar
-Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://kelompokg.github.io/kelompok-g-hci/)."
+Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini.
 1. Tugas 1 kami berisi xxxxxxxxxxxxxxxxxxx 
 2. Tugas 2 kami merupakan laporan wawancara xxxxxxxxxxxxxxxxxxxxxxx
 
