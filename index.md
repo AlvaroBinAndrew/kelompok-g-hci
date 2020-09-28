@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Tugas Kelompok G HCI
 
-You can use the [editor on GitHub](https://github.com/KelompokG/kelompok-g-hci/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Kelompok I Beranggotakan:
+* Nama Mahasiswa 13136190xx
+* Nama Mahasiswa 13136190xx
+* Nama Mahasiswa 13136190xx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pengantar
+Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://kelompokg.github.io/kelompok-g-hci/)."
+1. Tugas 1 kami berisi xxxxxxxxxxxxxxxxxxx 
+2. Tugas 2 kami merupakan laporan wawancara xxxxxxxxxxxxxxxxxxxxxxx
 
-### Markdown
+### Task 1
+- [x] Find similar incident in the past record
+- [x] Explain why the incident happened
+- [x] Explain the design error
+- [x] Provide suggestion to improve the design
+- [x] Create a UX mockup to improve the design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Results can be found at: [Tulis nama hasil penelitian](link website)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Task 2
+- [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
+- The goal of the second task is to identify the general principle in the UX design
+- Your job is to learned the general principle in UX design while verifying the second assumption through an interview:
+  - Years experience
+  - How many design made counted by apps
+  - What is designer philosophy during design process
+  - Get copy to his/her design items
+  - Ask whether he/she had a habit to consider control design (the interaction parts)
+  
+- [x] Interview result: [Interview](link repo interview)
 
-- Bulleted
-- List
+## Contributors
+* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Budiwijaya53](https://github.com/Budiwijaya53)
+* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [rafimir20](https://github.com/rafimir20)
+* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [Pramudio]()
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KelompokG/kelompok-g-hci/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
