@@ -33,7 +33,7 @@ Results can be found at: [Tulis nama hasil penelitian](link website)
 - [x] Interview result: [Interview](link repo interview)
 
 ## Contributors
-* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaroh H](https://github.com/xxx)
+* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/xxx)
 * **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
 * **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
 
