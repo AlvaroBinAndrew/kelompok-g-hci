@@ -1,14 +1,15 @@
 # Tugas Kelompok G HCI
 
 ## Kelompok G Beranggotakan:
-* Andrew Alvaro H 13136190xx
-* Nama Mahasiswa 13136190xx
-* Nama Mahasiswa 13136190xx
+* Andrew Alvaro Hazizi - 1313619035
+* Asep Virgo - 1313619036
+* Yafeth AP - 1313619040
+
 
 ### Pengantar
-Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini.
-1. Tugas 1 kami berisi xxxxxxxxxxxxxxxxxxx 
-2. Tugas 2 kami merupakan laporan wawancara xxxxxxxxxxxxxxxxxxxxxxx
+Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini:
+1. Tugas 1 kami berisi Design Perahu Nelayan.
+2. Tugas 2 kami merupakan laporan wawancara bersama Aldi baihaqi UI/UX Designer Tunaiku.
 
 ### Task 1
 - [x] Find similar incident in the past record
