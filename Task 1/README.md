@@ -3,7 +3,7 @@
 # Perahu Nelayan Tabrakan di Luwu Timur, 1 Warga Pangkep Tewas
 
 #### **Luwu Timur** – Dua perahu nelayan di Luwu Timur, Sulawesi Selatan (Sulsel), terlibat tabrakan. Satu orang meninggal dunia akibat insiden tersebut. “Korban atas nama Yasbar ditemukan meninggal dunia,” ujar Kapolres Luwu Timur AKBP Indratmoko kepada wartawan, Minggu (26/4/2020).
-#### Link berita  (https://news.detik.com/berita/d-4992000/perahu-nelayan-tabrakan-di-luwu-timur-1-warga-pangkep-tewas/2)
+#### [Link berita](https://news.detik.com/berita/d-4992000/perahu-nelayan-tabrakan-di-luwu-timur-1-warga-pangkep-tewas/2)
  
 ![perahu2](https://user-images.githubusercontent.com/72015025/94430178-af835a80-01bd-11eb-8995-e224b53042a7.jpeg)
 
