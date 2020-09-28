@@ -17,7 +17,7 @@ Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawa
 - [x] Provide suggestion to improve the design
 - [x] Create a UX mockup to improve the design
 
-Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%201)
+Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.com/AlvaroBinAndrew/kelompok-g-hci/tree/master/Task%201)
 
 
 ### Task 2
@@ -30,11 +30,11 @@ Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.
   - Get copy to his/her design items
   - Ask whether he/she had a habit to consider control design (the interaction parts)
   
-- [x] Interview result: [Interview](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%202)
+- [x] Interview result: [Interview](https://github.com/AlvaroBinAndrew/kelompok-g-hci/tree/master/Task%202)
 - [x] Interview Video: [Video wawancara](https://youtu.be/8ej79xYaC_Q)
 
 ## Contributors
-* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/KelompokG)
+* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
 * **Asep Virgo** - Ilmu Komputer UNJ 2019
 * **Yafeth AP** - Ilmu Komputer UNJ 2019 
 
