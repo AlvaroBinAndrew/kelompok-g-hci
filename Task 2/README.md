@@ -133,4 +133,4 @@ N	: ohh iya sama-sama, thankyou semuanya sukses terus kuliahnya
 P	: aamiin, sukses juga bang 
 
 
-## LINK WAWANCARA (https://youtu.be/8ej79xYaC_Q)
+## [LINK WAWANCARA](https://youtu.be/8ej79xYaC_Q)
