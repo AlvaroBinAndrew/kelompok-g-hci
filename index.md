@@ -17,7 +17,7 @@ Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawa
 - [x] Provide suggestion to improve the design
 - [x] Create a UX mockup to improve the design
 
-Results can be found at: [Tulis nama hasil penelitian](link website)
+Results can be found at: [Tulis nama hasil penelitian](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%201)
 
 
 ### Task 2
