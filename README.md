@@ -7,8 +7,9 @@
 
 ### Pengantar
 Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://kelompokg.github.io/kelompok-g-hci/)."
-1. Tugas 1 kami berisi Design Perahu Nelayan 
-2. Tugas 2 kami merupakan laporan wawancara bersama Aldi baihaqi UI/UX Designer Tunaiku
+
+1. Tugas 1 kami berisi Design Perahu Nelayan .
+2. Tugas 2 kami merupakan laporan wawancara bersama Aldi baihaqi UI/UX Designer Tunaiku.
 
 ### Task 1
 - [x] Find similar incident in the past record
