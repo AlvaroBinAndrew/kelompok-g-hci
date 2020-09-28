@@ -1,14 +1,14 @@
 # Tugas Kelompok G HCI
 
 ## Kelompok I Beranggotakan:
-* Nama Mahasiswa 13136190xx
-* Nama Mahasiswa 13136190xx
-* Nama Mahasiswa 13136190xx
+* Andrew Alvaro Hazizi 1313619035
+* Asep Virgo 1313619036
+* Yafeth AP1313619040
 
 ### Pengantar
 Kami dari kelompok G melampirkan link task 1 dan task 2 yang berada pada di bawah ini. Link juga dapat ditemukan pada [Github Pages kami](https://kelompokg.github.io/kelompok-g-hci/)."
-1. Tugas 1 kami berisi xxxxxxxxxxxxxxxxxxx 
-2. Tugas 2 kami merupakan laporan wawancara xxxxxxxxxxxxxxxxxxxxxxx
+1. Tugas 1 kami berisi Design Perahu Nelayan 
+2. Tugas 2 kami merupakan laporan wawancara bersama Aldi baihaqi UI/UX Designer Tunaiku
 
 ### Task 1
 - [x] Find similar incident in the past record
@@ -33,8 +33,8 @@ Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.
 - [x] Interview result: [Interview](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%202)
 
 ## Contributors
-* **Nama Mahasiswa** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/KelompokG)
-* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
-* **Nama Mahasiswa** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
+* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/KelompokG)
+* **Asep Virgo** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
+* **Yafeth AP** - Ilmu Komputer UNJ 2019 - [XXXX](https://github.com/xxx)
 
 #### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
