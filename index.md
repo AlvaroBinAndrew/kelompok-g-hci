@@ -1,6 +1,6 @@
 # Tugas Kelompok G HCI
 
-## Kelompok I Beranggotakan:
+## Kelompok G Beranggotakan:
 * Andrew Alvaro H 13136190xx
 * Nama Mahasiswa 13136190xx
 * Nama Mahasiswa 13136190xx
