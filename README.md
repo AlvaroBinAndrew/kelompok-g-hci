@@ -31,6 +31,7 @@ Results can be found at: [Perahu Nelayan Tabrakan di Luwu Timur](https://github.
   - Ask whether he/she had a habit to consider control design (the interaction parts)
   
 - [x] Interview result: [Interview](https://github.com/KelompokG/kelompok-g-hci/tree/master/Task%202)
+- [x] Interview Video: [Video wawancara](https://youtu.be/8ej79xYaC_Q)
 
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/KelompokG)
