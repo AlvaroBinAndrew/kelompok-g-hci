@@ -19,7 +19,7 @@
 ##### [] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting. #
 ##### [] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback. #
 
-### Editing Tools : <a href:"https://www.figma.com/" > Figma </a> &  <a href:"https://www.gimp.org/> GIMP </a>
+### Editing Tools : <a href="https://www.figma.com/" > Figma </a> &  <a href="https://www.gimp.org/> GIMP </a>
 
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
