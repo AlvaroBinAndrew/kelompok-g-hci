@@ -11,7 +11,9 @@
 
 <p> 
 Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material </p> 
-<p> DESAIN-1 <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png">Andrew Alvaro Hazizi -Klick disini desain lengkapnya ! </a> </p>
+<p> DESAIN-1 <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png">Andrew Alvaro Hazizi -Klick disini untuk desain lengkapnya ! </a> </p>
 <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/2Pageutama.png">
   
-
+<p> DESAIN-2 <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/WhatsApp%20Image%202020-10-14%20at%2023.15.44.jpeg"> Yafeth AP -klick disini untuk desain lengkapnya  ! </a> </p>
+<img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/yafeth.jpeg">
+ 
