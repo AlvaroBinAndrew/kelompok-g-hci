@@ -2,9 +2,9 @@
 
 # Tugas 1
 
-<h3> Alasan Aplikasi ini kurang diminati </h3>
-<h4> 1. Desain <br> 
-2. Fitur </h4>
+<h2> Alasan Aplikasi ini kurang diminati </h2>
+<h3> 1. Desain <br> 
+2. Fitur </h3>
 
 <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%201/Screenshot_20201011_103127.jpg" >
 <p> 1. Kesan dari aplikasinya cenderung asal-asalan. Untuk itu bisa ditambahkan halaman baru seperti pemilihan menu aplikasi agar lebih elegan. Kalau dibiarkan seperti tidak lebih baik daripada google translate yang notabene bukan aplikasi utama. </p> <br>
@@ -13,34 +13,34 @@
 <p> 3.	Dengan warna yang kurang menarik, aplikasi seolah-olah tidak mempertimbangkan kenyamanan user, sedangkan kunci utama sebuah aplikasi itu akan besar tergantung besarnya jumlah user dalam menggunakan aplikasi tersebut. Jadi dapat dikatakan aplikasi kurang serius dalam pengembangannya. </p>
 
 
-###       1.1 Usecase 
+      1.1 Usecase 
 <p> Untuk menggambarkan cara menggunakan atau memanfaatkan aplikasi yang dirancang, maka berikut ini adalah beberapa gambaran Use case Diagram yang digunakan pada “ English Indonesia Translator” Berbasis Android ini dapat dilihat pada gambar berikut : </p>
 
 <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%201/Usecase.png">
  
-### Deskripsi use case digunakan menjelaskan fungsional yang dilakukan oleh user. Adapun deskripsi use case untuk menampilkan menu android : 
+<h2> Deskripsi use case digunakan menjelaskan fungsional yang dilakukan oleh user. Adapun deskripsi use case untuk menampilkan menu android : </h2>
 
 
-#####  a)	Menerjemahkan Dari Bahasa Indonesia ke Inggris
-#####  Aktor : User 
-##### Deskripsi : User menerjemahkan bahasa indonesia ke bahasa inggris.
+<p> a)	Menerjemahkan Dari Bahasa Indonesia ke Inggris
+ Aktor : User 
+ Deskripsi : User menerjemahkan bahasa indonesia ke bahasa inggris. </p>
 
-##### b)	Menerjemahkan Dari Bahasa Inggris ke Indonesia
-##### Aktor: User 
-##### Deskripsi : User menerjemahkan bahasa inggris ke bahasa Indonesia.
+<p> b)	Menerjemahkan Dari Bahasa Inggris ke Indonesia
+Aktor: User 
+ Deskripsi : User menerjemahkan bahasa inggris ke bahasa Indonesia. </p>
 
-##### c)	Mendengarkan Suara hasil terjemahan 
-##### Aktor: User 
-##### Deskripsi : User dapat mendengarkan hasil output (hasil translate).
+<p> c)	Mendengarkan Suara hasil terjemahan 
+ Aktor: User 
+Deskripsi : User dapat mendengarkan hasil output (hasil translate). </p>
 
-##### d)	Menyalin output hasil terjemahan
-##### Aktor: User
-##### Deskripsi: User dapat menyalin hasil output .
+<p> d)	Menyalin output hasil terjemahan
+Aktor: User
+ Deskripsi: User dapat menyalin hasil output . </p>
 
 
-##### e)	Bisa menginput kata menggunakan foto atau file berbentuk image 
-##### Aktor: User 
-##### Deskripsi: User dapat menginput menggunakan foto atau file berbentuk image.
+<p> e)	Bisa menginput kata menggunakan foto atau file berbentuk image 
+ Aktor: User 
+ Deskripsi: User dapat menginput menggunakan foto atau file berbentuk image. </p>
 
 
 ###     1.2.Activity diagram 
