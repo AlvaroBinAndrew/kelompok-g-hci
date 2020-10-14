@@ -34,6 +34,7 @@
 
 
 ###     1.2.Activity diagram 
+<img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%201/ProjectMap.png">
  
 ##### Activity diagram menggambarkan berbagai alir aktivitas dalam sistem yang sedang dirancang, bagaimana masing-masing alir berawal, decision yang mungkin terjadi, dan bagaimana mereka berakhir. Activity diagram juga dapat menggambarkan proses paralel yang mungkin terjadi pada beberapa eksekusi. Berikut adalah Activity diagram yang diperoleh dari Use Case diagram yang telah dipaparkan :
 
