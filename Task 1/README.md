@@ -63,4 +63,21 @@
 ##### e.	Activity diagram fitur voice 
 ##### Activity diagram ini menggambarkan aktivitas input kata menggunakan suara. Dan akan dikonversikan menjadi text
  
+ <h3> Naration </h3>
+<br><p> Penggunaan aplikasi dimulai dengan memasuki aplikasi , lalu langsung berada dihalaman utama. dihalaman utama memiliki beberapa fitur yaitu: <br> 
+ 1.Input text dengan cara mengketikan (input) kata kedalam kolom.
+ 2.Output Text yaitu hasil dari inputan user  <br>
+ 3.Input Voice yaitu input menggunakan suara dan dikonversikan kedalam text<br>
+ 4.Share <br> 
+ 5. Salin  <p>
+ <h3> Identify The Key Use Case </h3>
+ <p> Translate adalah interpretasi makna teks dari bahasa sumber untuk menghasilkan teks padanan dalam bahasa sasaran yang mengkomunikasikan pesan serupa. </p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
