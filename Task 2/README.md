@@ -25,3 +25,4 @@ Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain denga
 <p> -<a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Day3.pdf"> Subtitle ada disini ! </a>
   <p>Ini dilaksanakan pada hari Rabu hingga Jumat, 12 Oktober 2020. </p>
  <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png"> Ini Aplikasi yang terpilih </a>
+ <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/2Pageutama.png">
