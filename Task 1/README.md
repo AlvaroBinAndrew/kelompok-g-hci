@@ -1,6 +1,9 @@
-### Kelompok G : -Andrew Alvaro Hazizi  -Asep Virgo   -Yafeth AP
+<h1> Kelompok G :<br> -Andrew Alvaro Hazizi <br> -Asep Virgo  <br> -Yafeth AP </h1>
 
 # Tugas 1
+
+
+
 
 
 ###       1.1 Usecase 
