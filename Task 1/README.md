@@ -6,7 +6,7 @@
 <h4> 1. Desain <br> 
 2. Fitur </h4>
 
-
+<img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%201/Screenshot_20201011_103127.jpg">
 
 
 
