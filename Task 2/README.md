@@ -10,6 +10,6 @@
 
 <p> 
 Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material </p> 
-<p> DESAIN-1 <a href=" "> </p> 
+<p> DESAIN-1 <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png"> </p> 
   
 
