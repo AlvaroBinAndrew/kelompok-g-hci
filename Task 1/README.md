@@ -21,25 +21,25 @@
 <h2> Deskripsi use case digunakan menjelaskan fungsional yang dilakukan oleh user. Adapun deskripsi use case untuk menampilkan menu android : </h2>
 
 
-<p> a)	Menerjemahkan Dari Bahasa Indonesia ke Inggris
- Aktor : User 
+<p> a)	Menerjemahkan Dari Bahasa Indonesia ke Inggris <br>
+ Aktor : User  <br>
  Deskripsi : User menerjemahkan bahasa indonesia ke bahasa inggris. </p>
 
-<p> b)	Menerjemahkan Dari Bahasa Inggris ke Indonesia
-Aktor: User 
+<p> b)	Menerjemahkan Dari Bahasa Inggris ke Indonesia <br>
+Aktor: User   <br>
  Deskripsi : User menerjemahkan bahasa inggris ke bahasa Indonesia. </p>
 
-<p> c)	Mendengarkan Suara hasil terjemahan 
- Aktor: User 
+<p> c)	Mendengarkan Suara hasil terjemahan  <br> 
+ Aktor: User   <br>
 Deskripsi : User dapat mendengarkan hasil output (hasil translate). </p>
 
-<p> d)	Menyalin output hasil terjemahan
-Aktor: User
+<p> d)	Menyalin output hasil terjemahan  <br>
+Aktor: User <br>
  Deskripsi: User dapat menyalin hasil output . </p>
 
 
-<p> e)	Bisa menginput kata menggunakan foto atau file berbentuk image 
- Aktor: User 
+<p> e)	Bisa menginput kata menggunakan foto atau file berbentuk image <br> 
+ Aktor: User <br>
  Deskripsi: User dapat menginput menggunakan foto atau file berbentuk image. </p>
 
 
@@ -49,19 +49,19 @@ Aktor: User
 ##### Activity diagram menggambarkan berbagai alir aktivitas dalam sistem yang sedang dirancang, bagaimana masing-masing alir berawal, decision yang mungkin terjadi, dan bagaimana mereka berakhir. Activity diagram juga dapat menggambarkan proses paralel yang mungkin terjadi pada beberapa eksekusi. Berikut adalah Activity diagram yang diperoleh dari Use Case diagram yang telah dipaparkan :
 
 ##### a.	Activity diagram Loading page 
-##### Actifity diagram loading menggambarkan aktifitas system untuk menuju ke menu utama.
+<p> Actifity diagram loading menggambarkan aktifitas system untuk menuju ke menu utama. </p>
 
 ##### b.	Activity diagram menu utama translate 
-##### Activity diagram ini mengambarkan aktifitas dari user dalam menerjemahkan bahasa indonesia yang diinginkan oleh user.
+<p> Activity diagram ini mengambarkan aktifitas dari user dalam menerjemahkan bahasa indonesia yang diinginkan oleh user. </p>
 
 ##### c.	Activity diagram history page 
-##### Activity diagram ini menggambarkan aktifitas menunjukan history atau input/output data sebelumnya .
+<p> Activity diagram ini menggambarkan aktifitas menunjukan history atau input/output data sebelumnya . </p>
 
 ##### d.	Activity diagram fitur camera 
-##### Activity diagram ini menggambarkan aktifitas input kata menggunakan camera dan file berbentuk image .
+<p> Activity diagram ini menggambarkan aktifitas input kata menggunakan camera dan file berbentuk image . </p>
 
 ##### e.	Activity diagram fitur voice 
-##### Activity diagram ini menggambarkan aktivitas input kata menggunakan suara. Dan akan dikonversikan menjadi text
+<p> Activity diagram ini menggambarkan aktivitas input kata menggunakan suara. Dan akan dikonversikan menjadi text. </p>
  
  <h3> Naration </h3>
 <br><p> Penggunaan aplikasi dimulai dengan memasuki aplikasi , lalu langsung berada dihalaman utama. dihalaman utama memiliki beberapa fitur yaitu: <br> 
