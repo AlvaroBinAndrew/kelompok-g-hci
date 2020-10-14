@@ -1,17 +1,15 @@
-# ASSIGNMENT 2 HUMAN COMPUTER INTERACTION
+<h1> Task 2: Applying Design Sprint </h1>
 
-### TIM G 
-#### 1. Andrew Alvaro Hazizi 
-#### 2. Asep Virgo 
-#### 3. Yafeth AP
+<h3> Laporan Hari 1 </h3>
 
+<p>Pada hari ke-1, kami membahas tentang mengapa aplikasi mengalami masalah. Dan kami telah menemukan beberapa hal yang akan kami evaluasi. Dan hal tersebut adalah tentang fitur-fitur tambahan dan desain aplikasi 
+<a href= "            ">
+<br> Diskusi ini dilaksanakan pada hari rabu, 7 Oktober 2020. </p>
+  
+<h3> Laporan Hari 2 </h3> 
 
-<h3> Aplication : <a href ="https://play.google.com/store/apps/details?id=com.translator.id&hl=en_US&gl=US"> English Indonesian Translator </h3>
+<p> 
+Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material </p> 
+<p> DESAIN-1 <a href=" "> </p> 
+  
 
-<h3>ABOUT DEVELOPER</h3>
-<h4>Nama = Michozoke  </h4><br>
-<h4> Update : August 19, 2020 </h4>
-
-
-
-<h3>Editing Tool: <a href= "https://www.figma.com/"> Figma </h3>
