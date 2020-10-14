@@ -4,7 +4,7 @@
 
 
 ###       1.1 Usecase 
-###### Untuk menggambarkan cara menggunakan atau memanfaatkan aplikasi yang dirancang, maka berikut ini adalah beberapa gambaran Use case Diagram yang digunakan pada “ English Indonesia Translator” Berbasis Android ini dapat dilihat pada gambar berikut :
+### Untuk menggambarkan cara menggunakan atau memanfaatkan aplikasi yang dirancang, maka berikut ini adalah beberapa gambaran Use case Diagram yang digunakan pada “ English Indonesia Translator” Berbasis Android ini dapat dilihat pada gambar berikut :
  
 ### Deskripsi use case digunakan menjelaskan fungsional yang dilakukan oleh user. Adapun deskripsi use case untuk menampilkan menu android : 
 
