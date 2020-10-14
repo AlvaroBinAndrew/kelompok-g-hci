@@ -26,3 +26,7 @@ Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain denga
   <p>Ini dilaksanakan pada hari Rabu hingga Jumat, 12 Oktober 2020. </p>
  <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png"> Ini Aplikasi yang terpilih </a>
  <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/2Pageutama.png">
+ 
+ <h3> Laporan Hari 4 </h3>
+ <p>Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelaskan tentang mengapa desain kami diperlukan. Dan pengembang memberi kami sedikit umpan balik.
+</p>
