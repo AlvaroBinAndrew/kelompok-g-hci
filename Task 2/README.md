@@ -12,5 +12,6 @@
 <p> 
 Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material </p> 
 <p> DESAIN-1 </p> <a href="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/Appsremake.png">Andrew Alvaro Hazizi </a>
+<img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%202/2Pageutama.png">
   
 
