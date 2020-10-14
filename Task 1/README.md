@@ -2,6 +2,13 @@
 
 # Tugas 1
 
+<h3> Alasan Aplikasi ini kurang diminati </h3>
+<h4> 1. Desain <br> 
+2. Fitur </h4>
+
+
+
+
 
 
 
