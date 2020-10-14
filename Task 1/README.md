@@ -7,7 +7,7 @@
 2. Fitur </h4>
 
 <img src="https://github.com/AlvaroBinAndrew/kelompok-g-hci/blob/hw2/Task%201/Screenshot_20201011_103127.jpg" >
-<p> 1. Kesan dari aplikasinya cenderung asal-asalan. Untuk itu bisa ditabahkan halaman baru seperti pemilihan menu aplikasi agar lebih elegan. Kalau dibiarkan seperti tidak lebih baik daripada google translate yang notabene bukan aplikasi utama. </p> <br>
+<p> 1. Kesan dari aplikasinya cenderung asal-asalan. Untuk itu bisa ditambahkan halaman baru seperti pemilihan menu aplikasi agar lebih elegan. Kalau dibiarkan seperti tidak lebih baik daripada google translate yang notabene bukan aplikasi utama. </p> <br>
 <p> 2.	Begitu juga dengan desain visual halaman, yang diduga terpengaruh warna dari logo, jadi tampilan halaman pun varian warna yang ada di logo. Namun walaupun demikian, tetap tampilan warna di halaman  utama cenderung tidak saling terkait, karena warna putih sangat mendominasi di halaman utama. Dan dengan begitu juga tampilannya tidak memberikan efek menarik terhadap aplikasi. Untuk itu, solusinya agar mampu mengganti warna lain dengan perpaduan beberapa warna terang agar memiliki daya tarik untuk user.
  </p> <br>
 <p> 3.	Dengan warna yang kurang menarik, aplikasi seolah-olah tidak mempertimbangkan kenyamanan user, sedangkan kunci utama sebuah aplikasi itu akan besar tergantung besarnya jumlah user dalam menggunakan aplikasi tersebut. Jadi dapat dikatakan aplikasi kurang serius dalam pengembangannya. </p>
