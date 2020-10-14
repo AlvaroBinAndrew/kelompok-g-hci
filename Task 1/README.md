@@ -71,7 +71,13 @@ Aktor: User <br>
  4.Share <br> 
  5. Salin  <p>
  <h3> Identify The Key Use Case </h3>
- <p> Translate adalah interpretasi makna teks dari bahasa sumber untuk menghasilkan teks padanan dalam bahasa sasaran yang mengkomunikasikan pesan serupa. </p>
+ <p> Penerjemah adalah Kasus penggunaan utama pada aplikasi ini. Karena aplikasi ini bertujuan untuk <br>
+   1.   Untuk memberikan sumbangsih tentang pengetahuan dan keserasian antar komunitas dan grup berbahasa. <br>
+   2.   Untuk mempromosikan informasi dan teknologi, khususnya bagi Negara ketiga dan keempat (maksudnya Negara yang bahasanya tidak serumpun). <br>
+   3.   Untuk menjelaskan budaya etnis dan perbedaan-perbedaanya agar tidak terkontaminasi. <br>
+   4.   Untuk menjadikan karya-karya tentang nilai-nilai religious yang suci, nilai artistic dalam dunia seni dan kemanusiaan, seperti halnya karya ilmiah,           agar bisa terjangkau di seluruh penjuru dunia. <br>
+   5.   Untuk memfasilitasi pembelajaran bahasa asing. <br>
+</p>
  
  
  
