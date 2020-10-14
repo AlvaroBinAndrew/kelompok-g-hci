@@ -14,5 +14,4 @@
 
 
 
-<h3>Editing Tool: <a href= https://www.figma.com/file/7EDdZ7FzPgz8BKIEhSJ2EM/AppsTranslator?node-id=0%3A1> Figma</a></h3>
- 
+<h3>Editing Tool: <a href= "https://www.figma.com/"> Figma</a></h3>
